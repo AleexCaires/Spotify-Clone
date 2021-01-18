@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    max-resolution: 30px;
+}
+.header__left {
+    background-color: white;
+    color:grey;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
